@@ -11,3 +11,6 @@ This course introduces us to a range of digital prototyping techniques for gener
 • Interactive digital prototype using Unity/Arduino. This digital prototype will integrate both Arduino and Unity to create a physical interaction. Prototype II can be the next iteration of Prototype I, based on the feedback of participants from your first study. It can also explore another aspect of the general problem/challenge you are tackling.
 
 • Reminder: Interaction should go beyond traditional controls (mouse, keyboard) - A use of mouse and keyboard that collects useful data is possible. 
+
+## [Prototype 3](https://github.com/carriewang1/DECO7230---Digital-Prototyping-and-Extended-Reality/tree/main/Prototype%203)
+Create a new prototype that incorporates mobile XR (i.e., Lens Studio). Incorporating XR must be an extension of your concept and not a replacement. Present how my concept will change  and introduce XR elements into it.
